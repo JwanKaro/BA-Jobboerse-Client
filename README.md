@@ -1,4 +1,4 @@
-# Arbeitsagentur Jobsuche Client
+# Bundesagenutr für arbeit Jobbörse Client
 Die **Inoffizieller** API-Client für die Jobsuche von der Arbeitsagentur.
 
 ---
