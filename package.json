@@ -1,0 +1,23 @@
+{
+  "name": "arbetisagenturjobsucheclient",
+  "version": "0.0.1",
+  "description": "Inoffizieller API-Client für die Jobsuche von der Arbeitsagentur.",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node -r tsconfig-paths/register ./src/index.ts",
+    "start:prod": "node -r ts-node/register/transpile-only -r tsconhg-paths/register dist/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "tsconfig-paths": "^3.11.0"
+  },
+  "keywords": [
+    "Arbeitsagentur",
+    "Jobbörse"
+  ],
+  "author": "Jwan Karo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.4"
+  }
+}
