@@ -56,7 +56,7 @@ Die client ist noch nicht vollstandig fertig.
 - [x] Tokens für die zukünftige benutzung speichern.
 - [x] Suchfunktion implementieren
 - [ ] Konfigurator-Objekt statt `.env`
-- [ ] Besser speicher Implementierung
+- [ ] Bessere Speicherung Implementierung
 - [ ] die Methode `init` besser implementieren
 - [ ] Suchergebnisse verarbeiten
 - [ ] Die API-Endpoints implementieren und zu jedem einen **Handler** codieren
